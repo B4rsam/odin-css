@@ -1,1 +1,1 @@
-# odin-css
+Simple CSS project from theodinproject.com
