@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    flex:auto;
+    justify-content: space-between;
+}
+
+.h-links {
+    display: flex;
+    flex: auto;
+    gap: 16px;
+}
+
+.logo {
+    text-align: center;
+    background-color: blue;
+}
